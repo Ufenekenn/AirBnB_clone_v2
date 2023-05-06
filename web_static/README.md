@@ -1,1 +1,1 @@
-This directory implements webpage design.
+0x02. AirBnB clone - MySQL
